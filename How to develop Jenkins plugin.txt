@@ -1,0 +1,7 @@
+http://zhaozhiming.github.io/blog/2013/01/31/jenkins-plugins-develop-part-1/
+
+https://www.ibm.com/developerworks/cn/java/j-lo-jenkins-plugin/
+
+http://www.cnblogs.com/kingzzm/p/3321715.html
+
+https://www.youtube.com/watch?v=azyv183Ua6U
